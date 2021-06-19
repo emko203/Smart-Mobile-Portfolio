@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoBase</string>
+    <string name="photo_taken">The photo just taken</string>
+    <string name="galleryButton">Gallery</string>
+    <string name="photoButton">Take photo</string>
+    <string name="image">image</string>
+</resources>
